@@ -7,3 +7,6 @@
 [submodule "IST-MSim-Lab3"]
 	path = IST-MSim-Lab3
 	url = https://github.com/Kons-5/IST-MSim-Lab3
+[submodule "IST-MSim-Notes"]
+	path = IST-MSim-Notes
+	url = https://github.com/Kons-5/IST-MSim-Notes.git
