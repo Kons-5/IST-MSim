@@ -1,0 +1,9 @@
+[submodule "IST-MSim-Lab1"]
+	path = IST-MSim-Lab1
+	url = https://github.com/Kons-5/IST-MSim-Lab1
+[submodule "IST-MSim-Lab2"]
+	path = IST-MSim-Lab2
+	url = https://github.com/Kons-5/IST-MSim-Lab2
+[submodule "IST-MSim-Lab3"]
+	path = IST-MSim-Lab3
+	url = https://github.com/Kons-5/IST-MSim-Lab3
