@@ -7,6 +7,12 @@ This repository contains the lab materials and notes for the **Modelação e Sim
 - `Lab3`: Hybrid System analysis
 - `Notes`: The notes are organized by topic and correspond to the course materials covered in class.
 
+The labs cover a wide range of topics, including Monte Carlo simulations, time series analysis, stochastic processes, optimization and agent-based modeling. Each lab includes MATLAB™ scripts and LaTeX reports that explain the theory behind each topic aswell as the simulation methodology and results.
+
+In addition to the labs, the repository also contains lecture notes, and additional resources for the course. 
+
+These materials provide a comprehensive overview of simulations and modeling, with a focus on practical applications and real-world examples.
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
